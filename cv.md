@@ -1,26 +1,21 @@
 # Yuliya Lebedeva
-***
 
 # Personal Information
 + ***Date of birth*** 07.27.1990
 + ***Mobile phone*** +375292711942
 + ***E-mail*** Ylia.lebedeva2012@gmail.com
-***
 
 # Objective
 ## ***Frontend developer (Junior)***
-***
 
 # About me
 I am interested in IT due to the desire to constantly develop and master new technologies and tools. I meet such criteria as discipline, focus on results, compliance with deadlines.
-***
 
 # Skills
 + HTML
 + CSS
 + JavaScript
 + Git (merge, rebase)/GitHub
-***
 
 # Code Example
         var quantity = 18;
@@ -33,7 +28,6 @@ I am interested in IT due to the desire to constantly develop and master new tec
         }   else if (quantity >= 18) {
             console.log(">=18!");
         }
-***
 
 # Education
 ***1. Belarusian State University of Culture and Arts:***
@@ -44,7 +38,6 @@ I am interested in IT due to the desire to constantly develop and master new tec
 
 ***3. The Rolling Scopes School:***
 * JavaScript/Front-end. Stage 0 - Education program.
-***
 
 # Languages
 + ***Belarusian*** native speaker;
