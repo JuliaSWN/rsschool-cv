@@ -1,2 +1,1 @@
-# rsschool-cv
-https://JuliaSWN.github.io/rsschool-cv/cv
+https://JuliaSWN.github.io/rsschool-cv/
